@@ -1,0 +1,35 @@
+what i understand from a subject 
+___________________________________
+
+iris flower dataset
+
+
+we want to build a model that spacifey between 3 different type of flowers and these flowers called iris flowers
+and we must have a dataset about it 
+and a type of flower : -  (Setosa, Versicolour, and Virginica)
+
+each flower must have a feature that specify it 
+
+1 petal length ( ÿÊ· «·‰» … )
+2 petal width (⁄—÷ «·‰» … )
+3 sepal length 
+4 sepal width 
+
+the object ( aim ) is the make the machine able to spacify between this flower according to that features 
+
+
+Sepals make food and protect reproductive parts of a flower 
+
+while petals are coloured to attract insects for pollination
+
+
+-----------
+
+Now after we make a model find a Realtionship between 2 features  ,, we want to traning a Model to make arelationship between a dataset who does not seen 
+(supervised learning)
+
+-----------------------------------------------------------------------
+
+
+
+
